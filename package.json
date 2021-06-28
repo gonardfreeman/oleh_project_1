@@ -1,0 +1,15 @@
+{
+  "name": "oleh_project_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Dmitry Bondarenko",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
